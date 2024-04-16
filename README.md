@@ -5,7 +5,7 @@ This simple C++ program demonstrates the evaluation of mathematical expressions 
 ## Usage
 
 ```bash
-git clone 'https://github.com/AbderrahimeEl/ExpressionEvaluator.git' && cd ExpressionEvaluator
+git clone 'git@github.com:AbderrahimeEl/ExpressionEvaluator.git' && cd ExpressionEvaluator
 ```
 ```bash
 g++ main.cpp evaluate.cpp -o main
